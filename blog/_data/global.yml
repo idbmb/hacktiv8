@@ -1,0 +1,9 @@
+# Site Settings
+title: 'Blog IDBMB'
+description: 'An Open-Source Blog Bambang Rahmadi Kurniawan Payu'
+url: 'http://127.0.0.1:4000' # the base hostname & protocol for your site
+footer_text: '<strong>&copy; 2016<a href="/"> Blog IDBMB</a> - Proudly hosted by <a href="https://github.com/idbmb" target="_blank">Github Pages</a></strong>'
+
+# Admin Settings
+admin_name: 'Bambang Rahmadi Kurniawan Payu'
+admin_email: 'bmb.router@gmail.com'

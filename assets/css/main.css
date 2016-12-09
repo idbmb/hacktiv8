@@ -1,0 +1,27 @@
+body{
+    background: #8e44ad;
+}
+.form-kirim{
+    margin-top: 15%;
+}
+.outter-form-kirim {
+    padding: 20px;
+    background: #EEEEEE;
+    position: relative;
+    border-radius: 5px;
+}
+.logo-kirim {
+    position: absolute;
+    font-size: 35px;
+    background: #2194A9;
+    color: #FFFFFF;
+    padding: 10px 18px;
+    top: -40px;
+    border-radius: 50%;
+    left: 40%;
+}
+
+h3.title-kirim {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
