@@ -1,5 +1,0 @@
-main:
-    - { url: '../index.html', text: 'Portal' }
-    - { url: '/', text: 'Blog' }
-    - { url: '/about', text: 'About' }
-    - { url: 'https://github.com/idbmb/', text: 'Fork on GitHub' }
