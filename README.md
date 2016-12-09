@@ -4,6 +4,10 @@
 ## About This Site :
 Website sederhana ini akan di update secara berkala seiring waktu, yang juga menjadi pusat mengumpulkan berbagai kegiatan di Hacktiv8 yang sudah dikerjakan.
 
+## Future Plans
+- Pada Menu Work Flow **Online Preparation #1** yang mengarah ke Repository Github akan dibuat blog menggunakan Jekyll.
+- Pada Menu Work Flow **Begin Class #2** Repository akan di update ketika sudah mulai kelas **Coding Bootcamp Hacktiv8**.
+
 ## Used Tags & Syntaxes :
 - **HTML Tag**
 
@@ -12,7 +16,7 @@ Website sederhana ini akan di update secara berkala seiring waktu, yang juga men
 < html > | < head > | < meta >  | < link > | < title >
 < body > | < div >  | < nav >   | < button > | < span >
 < ul > | < li > | < section > | < img > | < i >
-< h1 > | < h2 > | < h3 > | < h4 > | < a > 
+< h1 > | < h2 > | < h3 > | < h4 > | < a >
 < strong > | < form > | < br > | < input > | < textarea >
 
 - **CSS Tag**
@@ -22,7 +26,7 @@ Website sederhana ini akan di update secara berkala seiring waktu, yang juga men
 font-family | font-size | background-color | color | padding-right
 text-align | line-height | font-weight | font-size | padding
 text-transform | padding-bottom | height | padding-top | position
-width | background | z-index | top | position 
+width | background | z-index | top | position
 min-height | border |
 
 Dan Juga Menggunakan Framework [Bootstrap] (https://getbootstrap.com/)
