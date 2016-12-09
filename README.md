@@ -4,7 +4,7 @@
 ## About This Site :
 Website sederhana ini akan di update secara berkala seiring waktu, yang juga menjadi pusat mengumpulkan berbagai kegiatan di Hacktiv8 yang sudah dikerjakan.
 
-## Future Plans
+## Future Plans :
 - Pada Menu Work Flow **Online Preparation #1** yang mengarah ke Repository Github akan dibuat blog menggunakan Jekyll.
 - Pada Menu Work Flow **Begin Class #2** Repository akan di update ketika sudah mulai kelas **Coding Bootcamp Hacktiv8**.
 
